@@ -1,3 +1,5 @@
+#Escreva um algoritmo que leia o ano de nascimento de dez pessoas e no final mostre quantas pessoas são maiores de idade.
+
 cont = 1
 acumulador = 0
 while cont <= 10:
