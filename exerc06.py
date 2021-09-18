@@ -1,3 +1,5 @@
+#Escreva um programa que receba o preço de dois produtos. Calcule um desconto de 8% no primeiro produto, 11% no segundo e apresente o valor final a ser pago.
+
 n1 = int(input("Valor do primeiro produto: "))
 n2 = int(input("Valor do segundo produto: "))
 
